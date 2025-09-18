@@ -31,8 +31,4 @@ In this project, an image is passed through the **pre-trained VGG16 model** (fro
 - **TensorFlow / Keras**  
 - **NumPy, Matplotlib**  
 
-## ▶️ Installation & Usage
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-link>
-   cd <repo-folder>
+
